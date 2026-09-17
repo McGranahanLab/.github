@@ -1,3 +1,4 @@
-McGranahan Lab landing page.
+# Welcome to Nicholas McGranahan lab!
 
-For tutorials to [Guidebook](https://github.com/McGranahanLab/Guidebook/wiki) 
+
+For tutorials go to [Guidebook](https://github.com/McGranahanLab/Guidebook/wiki) 
